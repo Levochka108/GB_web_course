@@ -21,6 +21,9 @@ body {
     background: url("https://cdn.smehost.net/acdccom-uscolumbiaprod/wp-content/uploads/2021/09/ACDC_hero_2.jpg");
     color: #fff 
 }
+.space {
+    backdrop-filter: blur(4px); /* Размытие фона */
+}
 p.line {
     font-family: 'Lato Regular';
     border-left: 1px dotted rgb(108, 108, 108);
