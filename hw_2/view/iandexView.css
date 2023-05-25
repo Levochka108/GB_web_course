@@ -19,10 +19,10 @@
 body {
     padding: 25px 35px; 
     background: url("https://cdn.smehost.net/acdccom-uscolumbiaprod/wp-content/uploads/2021/09/ACDC_hero_2.jpg");
-    color: #fff 
+    color: #fff;
 }
 .space {
-    backdrop-filter: blur(4px); /* Размытие фона */
+    backdrop-filter: blur(5px); /* Размытие фона */
 }
 p.line {
     font-family: 'Lato Regular';
