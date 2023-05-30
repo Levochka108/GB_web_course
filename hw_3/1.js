@@ -1,8 +1,8 @@
-var celsius = prompt("Введите температуру в градусах Цельсия:");
+const celsius = prompt("Введите температуру в градусах Цельсия:");
 
-celsius = parseFloat(celsius);
+let = Number.parseFloat(celsius);
 
-var fahrenheit = (9 / 5) * celsius + 32;
+const fahrenheit = (9 / 5) * celsius + 32;
 
 fahrenheit = fahrenheit.toFixed(1);
 
