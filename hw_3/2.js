@@ -1,6 +1,6 @@
-function greeting(name){
-console.log("Привет, "+ name+ "!")}
+function greeting(name) {
+    console.log("Привет, "+ name+ "!")};
 
 const userName = prompt("Введите ваше имя: ");
 
-result = greeting(userName);
+greeting(userName);
